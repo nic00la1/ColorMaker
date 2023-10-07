@@ -56,7 +56,8 @@
                                      VerticalOptions="Center"
                                      WidthRequest="15"
                                      BackgroundColor="red"
-                                     CornerRadius="100"/>
+                                     CornerRadius="100"
+                                     Clicked="ImageButton_Clicked"/>
                     </HorizontalStackLayout>
                 </Frame>
 
